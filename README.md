@@ -1,4 +1,4 @@
-![Logo](https://1drv.ms/i/s!AgvsbrR-mPDyhE7TA_PgnksMklbc?e=w24x6X)
+<img align="right" alt="coding" width="400" src="https://github.com/Parimal-b/EatzyFoodDeliveryApp/blob/main/Spash%20Screen.png">
 
 # Project Title
 
@@ -22,6 +22,10 @@ Eatzy introduces an all-new budget management and health tracker system, that ca
 
 [Documentation](https://paceuniversity-my.sharepoint.com/:p:/r/personal/pb68789n_pace_edu/Documents/Project%20presentation%201.pptx?d=wb26506a9f2e5446ba62ef99b0e83dab2&csf=1&web=1&e=tQfLvb)
 
+## Tools
+
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.gu-s1W4ozGWJRcrA9PAafwAAAA?rs=1&pid=ImgDetMain" alt="android" width="40" height="40"/> </a> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/figma_logo_icon_170157.png" alt="android" width="40" height="40"/> </a>
+
 
 ## Contributing
 
@@ -30,6 +34,17 @@ Contributions are always welcome!
 See `contributing.md` for ways to get started.
 
 Please adhere to this project's `code of conduct`.
+
+
+## Overview
+
+
+
+
+
+
+
+
 
 
 ## Features
