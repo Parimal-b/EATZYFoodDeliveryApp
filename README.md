@@ -24,7 +24,7 @@ Eatzy introduces an all-new budget management and health tracker system, that ca
 
 ## Tools
 
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.gu-s1W4ozGWJRcrA9PAafwAAAA?rs=1&pid=ImgDetMain" alt="android" width="40" height="40"/> </a> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/figma_logo_icon_170157.png" alt="android" width="40" height="40"/> </a>
+<p align="left"> <a href="https://www.protopie.io/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.gu-s1W4ozGWJRcrA9PAafwAAAA?rs=1&pid=ImgDetMain" alt="android" width="40" height="40"/> </a> <a href="https://www.figma.com/ui-design-tool/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/figma_logo_icon_170157.png" alt="android" width="40" height="40"/> </a>
 
 
 ## Contributing
