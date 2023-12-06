@@ -36,20 +36,28 @@ See `contributing.md` for ways to get started.
 Please adhere to this project's `code of conduct`.
 
 
-## Overview
+## Flow
 
+<img align="center" alt="coding" width="400" src="https://github.com/Parimal-b/EatzyFoodDeliveryApp/blob/main/Picture1.png">
 
+## Overview From Protopie
 
-
-
-
-
-
-
+https://github.com/Parimal-b/EatzyFoodDeliveryApp/assets/78332265/3aa003f3-2a15-403c-b7d3-985e5e2a52e9
 
 ## Features
 
-- Budget Tracker
-- Health Tracker
-- Payments
-- Notifications
+### Budget Tracker&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" alt="coding" width="100" src="https://github.com/Parimal-b/EatzyFoodDeliveryApp/assets/78332265/109fe640-9919-40d0-bef8-761f0a4052af">
+
+
+### Health Tracker&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" alt="coding" width="100" src="https://github.com/Parimal-b/EatzyFoodDeliveryApp/assets/78332265/ab5959fa-3262-4295-955d-27553fc8a285"> 
+
+
+### Payments&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" alt="coding" width="100" src="https://github.com/Parimal-b/EatzyFoodDeliveryApp/assets/78332265/97804222-89b5-4127-967a-dc51052eef85"> 
+
+### UI&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" alt="coding" width="100" src="https://github.com/Parimal-b/EatzyFoodDeliveryApp/assets/78332265/67c0042b-3b89-416f-ad93-be4eb08e9aa8"> 
+
+## Get our application !!
+#### Help us to build our application better by providing feedback on UX Design. 
+[EatzyAppDev](https://cloud.protopie.io/p/f9b374362bea40bb94cc91fd?ui=true&scaleToFit=true&enableHotspotHints=true&cursorType=touch&mockup=true&bgColor=%23F5F5F5&playSpeed=1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;OR&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" alt="coding" width="150" src="https://github.com/Parimal-b/EatzyFoodDeliveryApp/assets/78332265/9aa0f6de-a3f6-4469-a932-fb95bcb3ca77">
+
+
