@@ -51,7 +51,7 @@ https://github.com/Parimal-b/EatzyFoodDeliveryApp/assets/78332265/3aa003f3-2a15-
 
 ### Payments&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" alt="coding" width="100" src="https://github.com/Parimal-b/EatzyFoodDeliveryApp/assets/78332265/97804222-89b5-4127-967a-dc51052eef85"> 
 
-### UI&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" alt="coding" width="100" src="https://github.com/Parimal-b/EatzyFoodDeliveryApp/assets/78332265/67c0042b-3b89-416f-ad93-be4eb08e9aa8"> 
+### User Friendly UI&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" alt="coding" width="100" src="https://github.com/Parimal-b/EatzyFoodDeliveryApp/assets/78332265/67c0042b-3b89-416f-ad93-be4eb08e9aa8"> 
 
 ## Get our application !!
 #### Help us to build our application better by providing feedback on UX Design. 
